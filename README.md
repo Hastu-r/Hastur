@@ -25,3 +25,4 @@ pin Projet C
 Stats
 Motivations
 Ajouter des icônes/contribution
+Passer en anglais
